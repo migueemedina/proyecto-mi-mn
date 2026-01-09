@@ -1,4 +1,4 @@
-//data.js es la base de datos del mapa interactivo. Se extrajo por ingeniería inversa del mapa original de Map Genie para investigar el funcionamiento.
+//data.js es la base de datos del mapa interactivo.
 
 const MAP_DATA = [
     {
